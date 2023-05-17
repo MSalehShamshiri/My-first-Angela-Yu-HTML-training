@@ -1,2 +1,4 @@
 # My-first-Angela-Yu-HTML-training
-HTML introduction and intermediate
+<hr>
+<br>
+Check the link in "About" section
